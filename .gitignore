@@ -1,5 +1,9 @@
-# Compiled class file
-*.class
+# Maven generated files:
+/target
+
+#IDEA generated files:
+/*.iml
+/.idea
 
 # Log file
 *.log
